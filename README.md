@@ -13,6 +13,7 @@ un blog increíble par el curso de Git y GitHub de platzi
 * mejorado por el increible platzi team
 * grandes e inumerables aportes
 * incluye ejemplos para todas las plataformas
+* disponible para todas las edades
 
 y como un amable recordatorio: **Este readme.md es un chiste
 **. Diseñado para este ejercicio. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso de Git Y GitHub de platzi
