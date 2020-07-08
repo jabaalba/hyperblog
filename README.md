@@ -10,6 +10,8 @@ un blog increíble par el curso de Git y GitHub de platzi
 * El verdadero amor por las buenas practicas
 * Trucos muy locos del profesor
 * Las personalidades multples de Freddy
+* mejorado por el increible platzi team
+* grandes e inumerables aportes
 
 y como un amable recordatorio: **Este readme.md es un chiste
 **. Diseñado para este ejercicio. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve a ver el curso de Git Y GitHub de platzi
